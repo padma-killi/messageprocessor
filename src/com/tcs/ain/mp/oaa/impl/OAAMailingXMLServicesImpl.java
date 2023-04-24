@@ -33,15 +33,6 @@ import com.tcs.ain.mp.common.Util;
 import javax.mail.SendFailedException;
 import javax.mail.MessagingException;
 
-/* $Revision: 1.3 $
- * Copyright � 2003  Global Net Services Inc
- * All Rights Reserved
- *
- * This is unpublished proprietary source code.
- * The copyright notice above does not evidence any actual or
- * intended publication of such source code.
-*/
-
 /**
  * OAAMailingXMLServicesImpl -  A  java implementation of the interface IMailingXMLServices
  * that implements the Online Account Administration's mailing notifications. 
