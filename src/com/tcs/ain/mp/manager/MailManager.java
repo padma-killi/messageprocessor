@@ -8,14 +8,6 @@ import javax.activation.DataSource;
 import javax.activation.DataHandler;
 import javax.activation.FileDataSource;
 
-/* $Revision: 1.3 $
-* Copyright � 2003  Global Net Services Inc
-* All Rights Reserved
-*
-* This is unpublished proprietary source code.
-* The copyright notice above does not evidence any actual or
-* intended publication of such source code.
-*/
 
 /**
  * A <code>MailManager</code> is a simple SMTP mail client used to send e-mail.
