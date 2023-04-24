@@ -3,14 +3,6 @@ package com.tcs.ain.mp.manager;
 import com.tcs.ain.mp.common.ResourceException;
 import java.util.*;
 
-/* $Revision: 1.4 $
-* Copyright � 2003  Global Net Services Inc
-* All Rights Reserved
-*
-* This is unpublished proprietary source code.
-* The copyright notice above does not evidence any actual or
-* intended publication of such source code.
-*/
 /**
  * The ResourceManager is a singleton class which is used to provide the resources for other objects like
  * TransformXMLManager to locate the XSL file path , SMTP server name etc
