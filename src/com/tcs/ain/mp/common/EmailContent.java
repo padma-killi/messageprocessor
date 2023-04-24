@@ -7,8 +7,6 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 /* $Revision: 1.9 $
- * Copyright � 2003  Global Net Services Inc
- * All Rights Reserved
  *
  * This is unpublished proprietary source code.
  * The copyright notice above does not evidence any actual or
