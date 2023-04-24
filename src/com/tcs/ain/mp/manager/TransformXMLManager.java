@@ -7,14 +7,6 @@ import java.io.*;
 
 import com.tcs.ain.mp.helper.FileHandler;
 
-/* $Revision: 1.2 $
-* Copyright � 2003  Global Net Services Inc
-* All Rights Reserved
-*
-* This is unpublished proprietary source code.
-* The copyright notice above does not evidence any actual or
-* intended publication of such source code.
-*/
 /**
  * TransformXMLManager implements ITransformXML. This class is mainly used to transform
  * XML documents into an HTML documents and vice versa.
