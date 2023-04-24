@@ -10,8 +10,6 @@ import gov.fda.furls.mp.logging.impl.*;
 import com.tcs.ain.mp.dao.ISendMailingDao;
 
 /* $Revision: 1.3 $
- * Copyright � 2003  Global Net Services Inc
- * All Rights Reserved
  *
  * This is unpublished proprietary source code.
  * The copyright notice above does not evidence any actual or
