@@ -9,7 +9,6 @@ import javax.mail.SendFailedException;
 import javax.mail.MessagingException;
 
 /* $Revision: 1.1.1.1 $
- * Copyright � 2003  Global Net Services Inc
  * All Rights Reserved
  *
  * This is unpublished proprietary source code.
