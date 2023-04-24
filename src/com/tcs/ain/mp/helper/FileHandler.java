@@ -2,8 +2,6 @@ package com.tcs.ain.mp.helper;
 import java.io.*;
 
 /* $Revision: 1.2 $
- * Copyright � 2003  Global Net Services Inc
- * All Rights Reserved
  *
  * This is unpublished proprietary source code.
  * The copyright notice above does not evidence any actual or
