@@ -1,7 +1,6 @@
 package com.tcs.ain.mp.alert;
 
 /* $Revision: 1.1.1.1 $
- * Copyright � 2003  Global Net Services Inc
  * All Rights Reserved
  *
  * This is unpublished proprietary source code.
